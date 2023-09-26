@@ -1,0 +1,1 @@
+Jest to prosta aplikacja sklepu odzieżowego.
